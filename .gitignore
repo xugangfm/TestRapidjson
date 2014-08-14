@@ -1,5 +1,6 @@
 project.xcworkspace/
+project.xcworkspace
 xcuserdata/
-xcshareddata/
+xcuserdata
 build/
 build
