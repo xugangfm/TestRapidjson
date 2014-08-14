@@ -28,7 +28,7 @@ const char* jsonSource(){
     rapidjson::Value dataArray;
     dataArray.SetArray();
     
-    const char * p_name ="xugang";
+    const char * p_name ="许刚";
     
     for (int i=0; i<5; i++) {
         
